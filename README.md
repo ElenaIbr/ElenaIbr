@@ -14,7 +14,7 @@ My experience includes building and maintaining production mobile applications, 
 
 ## Education
 
-MSc in Applied Mathematics and Computer Science · HSE University, 2026
+**MSc** in Applied Mathematics and Computer Science · HSE University, 2026
 
 ## Professional Activity
 

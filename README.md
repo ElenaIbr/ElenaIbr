@@ -2,13 +2,15 @@
 
 I'm a software engineer based in the Netherlands, with 5 years of professional experience, primarily in Kotlin, Java, and Android development.
 
-My experience includes building and maintaining production mobile applications, improving software architecture, and developing reusable components. I also contribute to cross-platform mobile development and backend services.
+I enjoy building software that solves real problems, especially when I believe in the product and the idea behind it. I'm particularly interested in software architecture, maintainable and scalable solutions, and improving both the product and the developer experience.
+
+My experience includes building and maintaining production mobile applications, modernizing legacy systems, developing reusable libraries, and contributing to cross-platform mobile development and backend services.
 
 ## Tech Stack
 
 - **Languages:** Kotlin, Java
-- **Mobile:** Android SDK, Jetpack Compose, Coroutines, Flow, React Native, Brownfield Integration
-- **Backend:** Java, REST APIs, backend contributions
+- **Mobile:** Android SDK, Jetpack Compose, Coroutines, React Native
+- **Backend:** Java, REST APIs, SQL
 - **Architecture:** MVVM, Clean Architecture, Multi-module Architecture
 - **Engineering:** Gradle, CI/CD, Automated Testing, Dependency Injection
 

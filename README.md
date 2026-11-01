@@ -1,6 +1,6 @@
 # Hi, I'm Elena 👋
 
-I'm a software engineer based in the Netherlands, with 5 years of professional experience, primarily in Kotlin, Java, and Android development.
+I'm a software engineer based in the Netherlands with 7+ years of experience across software development and technical analysis, including 5+ years specializing in Android development with Kotlin and Java.
 
 I enjoy building software that solves real problems, especially when I believe in the product and the idea behind it. I'm particularly interested in software architecture, maintainable and scalable solutions, and improving both the product and the developer experience.
 

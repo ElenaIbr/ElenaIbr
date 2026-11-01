@@ -12,7 +12,6 @@ My experience includes building and maintaining production mobile applications, 
 - **Mobile:** Android SDK, Jetpack Compose, Coroutines, React Native
 - **Backend:** Java, REST APIs, SQL
 - **Architecture:** MVVM, Clean Architecture, Multi-module Architecture
-- **Engineering:** Gradle, CI/CD, Automated Testing, Dependency Injection
 
 ## Education
 

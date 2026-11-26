@@ -6,13 +6,6 @@ I enjoy building software that solves real problems, especially when I believe i
 
 My experience includes building and maintaining production mobile applications, modernizing legacy systems, developing reusable libraries, and contributing to cross-platform mobile development and backend services.
 
-## Tech Stack
-
-- **Languages:** Kotlin, Java
-- **Mobile:** Android SDK, Jetpack Compose, Coroutines, React Native
-- **Backend:** Java, REST APIs, SQL
-- **Architecture:** MVVM, Clean Architecture, Multi-module Architecture
-
 ## Education
 
 **MSc** in Applied Mathematics and Computer Science · HSE University, 2026
